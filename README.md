@@ -12,8 +12,8 @@ Welcome to my Github page! I am Arib Alam and I am a final year student at IIT K
 
 #### 🌱 Things I am currently working on: 
 - Finish my Mathematics and Computing Degree  
-- Learning Computer Networks and Software Design Principles 
-- A personal Chrome extension
+- Learning Distributed Systems and System Design Principles 
+- A personal GraphQL project using Go
 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=aribalam&show_icons=true&count_private=true" />
